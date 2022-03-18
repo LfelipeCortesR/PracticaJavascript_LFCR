@@ -1,0 +1,64 @@
+*{
+    background-image: url("pokefondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 0;
+    margin: 0;
+    height: auto;
+}
+
+.buscandopokemon{
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    text-align: center;
+}
+
+.imgcentral{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.poketitulo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.poketipo{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.pokeinfo{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.pokemov{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.imgU{
+    height: 150px;
+    width: 100%;
+}
+
+.imgD{
+    height: 150px;
+    width: 100%;
+}
+
+input{
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    text-align: center; 
+    font-size: x-large;
+}
